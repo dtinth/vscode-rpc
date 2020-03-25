@@ -2,6 +2,10 @@
 
 A [VS Code Power Tools](https://marketplace.visualstudio.com/items?itemName=ego-digital.vscode-powertools) [Command](https://github.com/egodigital/vscode-powertools/wiki/Commands) that exposes an API to allow programmatic access to current VS Code window.
 
+<a href="https://app.diagrams.net/?src=about#Hdtinth%2Fvscode-rpc%2Fmaster%2Fdocs%2Fimages%2Fecosystem.svg">
+  <img src="docs/images/ecosystem.svg" alt="Ecosystem of tools">
+</a>
+
 ## Query VSCode’s state using GraphQL
 
 ![Screenshot](docs/images/query.png)
